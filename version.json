@@ -1,0 +1,6 @@
+{
+  "min_supported_build": 1,
+  "latest_build": 1,
+  "android_apk_url": "https://github.com/USER/REPO/releases/download/v1.2.3/app.apk",
+  "ios_redirect_url": "https://github.com/USER/REPO/releases/latest"
+}
