@@ -1,6 +1,6 @@
 {
-  "min_supported_build": 3,
-  "latest_build": 3,
+  "min_supported_build": 2,
+  "latest_build": 2,
   "android_apk_url": "https://github.com/USER/REPO/releases/download/v1.2.3/app.apk",
   "ios_redirect_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/tag/iOSRelease"
 }
