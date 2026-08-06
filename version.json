@@ -1,6 +1,6 @@
 {
   "min_supported_build": 6,
   "latest_build": 6,
-  "android_apk_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/download/AndroidRelease/app-arm64-v8a-release.apk",
+  "android_apk_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/download/AndroidRelease/app-release.apk",
   "ios_redirect_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/tag/iOSRelease"
 }
