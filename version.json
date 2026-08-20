@@ -1,6 +1,6 @@
 {
-  "min_supported_build": 2,
-  "latest_build": 2,
-  "android_apk_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/download/1.0.3/app-release.apk",
-  "ios_redirect_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/tag/1.0.3"
+  "min_supported_build": 3,
+  "latest_build": 3,
+  "android_apk_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/download/1.0.4/app-release.apk",
+  "ios_redirect_url": "https://github.com/nikolaos-messerschmidt/Corfu-Plane-Tracking-app/releases/tag/1.0.4"
 }
